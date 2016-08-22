@@ -1,0 +1,17 @@
+{
+  "name": "bootstrap-youth",
+  "homepage": "https://github.com/WhenYouth/bootstrap",
+  "authors": [
+    "Lime <shiyanhui66@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
